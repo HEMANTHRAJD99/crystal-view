@@ -10,4 +10,7 @@ public class CrystalViewApplication {
 		SpringApplication.run(CrystalViewApplication.class, args);
 	}
 
+
+	
+
 }
